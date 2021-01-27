@@ -1,0 +1,7 @@
+miniapp
+*.dbf
+*.ntx
+*.log
+*.o
+core
+
